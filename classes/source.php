@@ -1,5 +1,5 @@
 <?php 
-class source extends db {
+class source extends db {   /// derived class inherits db class 
 
     public $Query;
     
